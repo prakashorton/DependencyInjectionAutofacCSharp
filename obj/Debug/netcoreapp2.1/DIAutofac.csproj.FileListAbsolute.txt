@@ -1,0 +1,11 @@
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\bin\Debug\netcoreapp2.1\DIAutofac.deps.json
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\bin\Debug\netcoreapp2.1\DIAutofac.runtimeconfig.json
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\bin\Debug\netcoreapp2.1\DIAutofac.runtimeconfig.dev.json
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\bin\Debug\netcoreapp2.1\DIAutofac.dll
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\obj\Debug\netcoreapp2.1\DIAutofac.csprojAssemblyReference.cache
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\obj\Debug\netcoreapp2.1\DIAutofac.csproj.CoreCompileInputs.cache
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\obj\Debug\netcoreapp2.1\DIAutofac.AssemblyInfoInputs.cache
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\obj\Debug\netcoreapp2.1\DIAutofac.AssemblyInfo.cs
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\bin\Debug\netcoreapp2.1\DIAutofac.pdb
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\obj\Debug\netcoreapp2.1\DIAutofac.dll
+C:\Users\prakash.ravindran\Source\Repos\HelloWorld\DIAutofac\obj\Debug\netcoreapp2.1\DIAutofac.pdb
